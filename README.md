@@ -1,4 +1,5 @@
-# Kaggle Titanic
+## Kaggle Titanic
+
 This is my reperesentation for the Kaggle competition, Titanic Machine Learning From Disaster.
 ---
 
