@@ -2,13 +2,13 @@
 This is my reperesentation for the Kaggle competition, Titanic Machine Learning From Disaster.
 
 ### Goal for this Notebook:
-Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+I want to show an example of an analysis of the Titanic disaster in Python using Data Science utilities. 
 
-#### This Notebook will show basic examples of:
+#### In This Notebook i practicing skills of:
 #### Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
-*   Exploring Data through Visualizations with Matplotlib
+*   Exploring Data through Visualizations with Matplotlib and Seaborn
 
 #### Data Analysis
 *    Supervised Machine learning Techniques:
