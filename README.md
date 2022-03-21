@@ -4,7 +4,7 @@ This is my reperesentation for the Kaggle competition, Titanic Machine Learning 
 ### Goal for this Notebook:
 I want to show an example of an analysis of the Titanic disaster in Python using Data Science utilities. 
 
-#### In This Notebook i practicing skills of:
+#### In This Notebook I practicing skills of:
 #### Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
