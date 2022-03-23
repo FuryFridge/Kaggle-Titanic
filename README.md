@@ -12,12 +12,12 @@ I want to show an example of an analysis of the Titanic disaster in Python using
 
 #### Data Analysis
 I will try to use different machine learning algorithms to get the best result:
-    *   Logistic Regression Model
-    *   K-nearest neighbors (KNN)
-    *   Support Vector Machine (SVM)
-    *   Naive Bayess algorithm
-    *   Decision Tree
-    *   Random Forest
+*   Logistic Regression Model
+*   K-nearest neighbors (KNN)
+*   Support Vector Machine (SVM)
+*   Naive Bayess algorithm
+*   Decision Tree
+*   Random Forest
 
 #### Valuation of the Analysis
 *   K-folds cross validation to valuate results locally
